@@ -18,3 +18,4 @@ $ ll build
 redis-server --version
 ```
 
+Link blog: https://anonystick.com/blog-developer/install-redisearch-ubuntu-2004-2021080556850096
